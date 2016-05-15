@@ -22,6 +22,7 @@
  * benchmark macros
  */
 #ifdef BENCH
+#include <string.h>
 #include <sys/time.h>
 
 /**
